@@ -84,3 +84,22 @@ Criando um repositório com as extenções que uso no meu VS Code.
 ### vscode-pdf
 ### GitLens - Git supercharged
 ### * PostCSS Language Support
+
+# Aplicativos instalados no PC
+### Adobe Acrobat
+### AVG
+### Composer - PHP Dependency Manager
+### Eclipse Terminal JDK
+### VS Code
+### Git e Github
+### IntelliJ
+### MySQL Workbench
+### Node.js
+### OBS Studio
+### Postman
+### Python
+### Revo Uninstaller
+### Typora
+### WinRAR
+### XAMPP
+### Zoom
