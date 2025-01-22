@@ -2,6 +2,7 @@
 Criando um repositório com as extenções que uso no meu VS Code.
 ### Angular Language Service
 ### * Auto Close Tag
+### * Auto Complete Tag
 ### * Auto Import
 ### * Auto Rename Tag
 ### Autoprefixer
@@ -40,9 +41,9 @@ Criando um repositório com as extenções que uso no meu VS Code.
 ### Live Sass Compiller
 ### * Live Server
 ### Live Share
-### Markdown All in One
-### Markdown Preview Enhanced
-### Markdown Preview Github Styling
+### * Markdown All in One
+### * Markdown Preview Enhanced
+### * Markdown Preview Github Styling
 ### Marp for VS Code
 ### * Material Icon Theme
 ### Material Theme Icons - Free
