@@ -1,5 +1,5 @@
-# Extencoes
-Criando um repositório com as extenções que uso no meu VS Code.
+# Extensoes
+Criando um repositório com as extensões que uso no meu VS Code.
 ### Angular Language Service
 ### * Auto Close Tag
 ### * Auto Complete Tag
