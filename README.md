@@ -93,7 +93,7 @@ Criando um repositório com as extensões que uso no meu VS Code.
 ### AVG
 ### Composer - PHP Dependency Manager
 ### Eclipse Terminal JDK
-### VS Code
+### VS Code [Acessar Site VS Code](https://code.visualstudio.com/)
 ### Git e Github
 ### IntelliJ
 ### MySQL Workbench
