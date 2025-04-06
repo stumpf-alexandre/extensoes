@@ -97,7 +97,7 @@ Criando um repositório com as extensões que uso no meu VS Code.
 ### Git e Github
 ### IntelliJ
 ### MySQL Workbench
-### Node.js
+### Node.js [Acessar Site Node.js](https://nodejs.org/en)
 ### OBS Studio
 ### Postman
 ### Python
