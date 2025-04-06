@@ -86,6 +86,7 @@ Criando um repositório com as extensões que uso no meu VS Code.
 ### GitLens - Git supercharged
 ### * PostCSS Language Support
 ### * Todo Tree
+### * GlassIt-VSC
 
 # Aplicativos instalados no PC
 ### Adobe Acrobat
