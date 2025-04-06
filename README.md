@@ -21,13 +21,13 @@ Criando um repositório com as extensões que uso no meu VS Code.
 ### * EditorConfig for VS Code
 ### * Error Lens
 ### ES7 React/Redux/GraphQL/React-Native snippets
-### ES7 + React/Redux/React-Native snippets
+### * ES7 + React/Redux/React-Native snippets
 ### * ESLint
 ### * Excalidraw
 ### Extencion Pack for Java
 ### Fig Blog Search
 ### * Fira Code Nerd Font/Icons
-### Git Graph
+### * Git Graph
 ### Gradle for Java
 ### Halcyon Theme
 ### * HTML CSS Support
@@ -85,6 +85,7 @@ Criando um repositório com as extensões que uso no meu VS Code.
 ### vscode-pdf
 ### GitLens - Git supercharged
 ### * PostCSS Language Support
+### * Todo Tree
 
 # Aplicativos instalados no PC
 ### Adobe Acrobat
