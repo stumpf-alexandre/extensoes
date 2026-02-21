@@ -11,6 +11,7 @@ Criando um repositório com as extensões que uso no meu VS Code.
 ### * Code Autocomplete
 ### * Code Runner
 ### * Code Snippets
+### *Code Spell Checker
 ### * Color Highlight
 ### * Color Picker
 ### Custom CSS and JS Loader
@@ -27,6 +28,7 @@ Criando um repositório com as extensões que uso no meu VS Code.
 ### Extencion Pack for Java
 ### Fig Blog Search
 ### * Fira Code Nerd Font/Icons
+### * GitLens
 ### * Git Graph
 ### Gradle for Java
 ### Halcyon Theme
